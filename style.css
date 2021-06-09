@@ -1,0 +1,68 @@
+.navbar {
+  background-color: #1088a0;
+}
+
+.bg-image {
+  padding-top: 4rem;
+  background-image: url(gambar/background\ hd.jpg);
+  height: 80vh;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+  background-attachment: fixed;
+}
+
+footer {
+  background-color: #cfc1af;
+}
+footer a {
+  text-decoration: none;
+  font-weight: 400;
+  color: rgb(46, 47, 49);
+}
+section {
+  padding-top: 6rem;
+}
+
+#source a {
+  text-decoration: none;
+  font-weight: 400;
+  color: rgb(46, 47, 49);
+}
+.box {
+  background-color: #78b2c4;
+  margin: 20vh auto;
+  justify-content: center;
+  padding: 1rem;
+}
+.box h2 {
+  color: rgb(46, 47, 49);
+}
+#source {
+  background-color: #bfd2d9;
+}
+#esok {
+  background-color: #bfd2d9;
+}
+#esok p {
+  color: rgb(46, 47, 49);
+  text-indent: 4vh;
+}
+#source .btn {
+  background-color: #cfc1af;
+  color: rgb(46, 47, 49);
+}
+#aksi {
+  background-color: #cfc1af;
+}
+#sekarang {
+  background-color: #cfc1af;
+}
+#sekarang p {
+  color: rgb(46, 47, 49);
+  text-indent: 4vh;
+}
+.textnow {
+  background-color: #78b2c4;
+}
